@@ -1,3 +1,3 @@
 # Projekt iz kolegija Odabrane teme iz biometrije
 
-[Link za demonstraciju](http://www.hrvoje-milkovic.from.hr/otb)
+Frontend implementation of emotion detection in JavaScript
